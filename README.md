@@ -1,0 +1,1 @@
+This repository lists all the notebook created in order to learn Quantum Computing. This uses Qiskitpython package to perform the operations which is created by IBM.Qiskit uses real as well as simulated quantum computers as hardware.
